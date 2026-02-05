@@ -1,6 +1,3 @@
-A-Level Computer Science student currently building single page applications with react
+First Year BSc Compsci student.
 
-<!---
-JakeFordy/JakeFordy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Haiiii :3
