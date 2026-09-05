@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**JakeFordy/JakeFordy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# haii, i'm jake :3
 
-Here are some ideas to get you started:
+**he/him · CS @ Exeter · Junior Dev @ WPA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i like messing around with AI, building things that probably didn't need to be built,
+and occasionally making them useful.
+
+[linkedin](https://www.linkedin.com/in/jake-fordy/)
+
+</div>
+
+---
+
+### 🤖 currently messing with
+
+- AI agents, LLMs and generally making models do shit
+- claude code and AI-assisted development
+- locking in with scary life stuff
+- spending wayyyy too much time "optimising" my obsidian setup
+
+### 🛠️ things I've made
+
+**[FinAI](https://github.com/JakeFordy/FinAI)**  
+- AI banking app built in 24 hours at HackSouthWest 2026.  
+- 🏆 Most Innovative · 🏆 Best Documentation & Outreach
+
+**Tournamento**  
+- Live tournament tracking for squash clubs. Started as a stupid little project, now I'm somehow turning it into an actual product.
+
+---
+
+### 🎮 games I waste my time on
+
+Satisfactory · War Thunder · Team Fortress 2 · RimWorld · SCP: Secret Laboratory
+
+---
+
+<div align="center">
+
+*thanks for stopping by :3*
+
+</div>
