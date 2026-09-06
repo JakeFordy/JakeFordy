@@ -6,7 +6,7 @@
 
 i like messing around with AI, and building completely randomly stuff
 
-[linkedin](https://www.linkedin.com/in/jake-fordy/)
+[linkedin](https://www.linkedin.com/in/jakefordy/)
 
 </div>
 
