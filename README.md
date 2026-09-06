@@ -4,8 +4,7 @@
 
 **he/him · CS @ Exeter · Junior Dev @ WPA**
 
-i like messing around with AI, building things that probably didn't need to be built,
-and occasionally making them useful.
+i like messing around with AI, and building completely randomly stuff
 
 [linkedin](https://www.linkedin.com/in/jake-fordy/)
 
@@ -15,8 +14,7 @@ and occasionally making them useful.
 
 ### 🤖 currently messing with
 
-- AI agents, LLMs and generally making models do shit
-- claude code and AI-assisted development
+- AI agents, LLMs and making models do shit
 - locking in with scary life stuff
 - spending wayyyy too much time "optimising" my obsidian setup
 
